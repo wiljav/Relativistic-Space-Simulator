@@ -1,0 +1,7 @@
+{
+  "name": "Relativistic Space Simulator",
+  "description": "A high-performance 3D space environment exploring relativistic physics, featuring a Cannon.js-powered ship, dual-camera perspective, and an AI Quantum Navigator.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
